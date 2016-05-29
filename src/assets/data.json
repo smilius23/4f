@@ -1,0 +1,17 @@
+{
+    "acctNo": "00109242",
+    "instId": "ESSESGS0XXX",
+    "pstDate": 1452812400000,
+    "valDate": 1452726000000,
+    "level4Reference": "SIN 16011500019",
+    "level4Text": "SWEEP ISAT",
+    "pstAmt": 10077.000,
+    "currCode": "SGD",
+    "level5BankReference": "STONCM01160114175038290757",
+    "busDesc": "SWEEP ISAT",
+    "customerRefNumber": null,
+    "benName": "CMI SYSTEMTEST 28, ACC",
+    "benAccount": "80619915",
+    "benInstid": "ESSESGS0XXX"
+}
+.
