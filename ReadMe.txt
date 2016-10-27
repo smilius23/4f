@@ -1,4 +1,3 @@
-	//After you download code from gitlab (http://lsp2344c.sebank.se/cop25/TransactionsGUI.git) or somewhere else in the same folder open coammandline. 
 	//Download and install libraries with command
 > npm install
 
